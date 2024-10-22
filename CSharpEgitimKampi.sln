@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_TemelKonular", "01_Temel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Degiskenler", "02_Degiskenler\02_Degiskenler.csproj", "{8A0E82A0-A7F9-49A2-BB57-0BAB19842DDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_MakingDecision", "03_MakingDecision\03_MakingDecision.csproj", "{BDBFC4DE-A182-43A3-813A-26D06AD3BE04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8A0E82A0-A7F9-49A2-BB57-0BAB19842DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A0E82A0-A7F9-49A2-BB57-0BAB19842DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A0E82A0-A7F9-49A2-BB57-0BAB19842DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBFC4DE-A182-43A3-813A-26D06AD3BE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBFC4DE-A182-43A3-813A-26D06AD3BE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBFC4DE-A182-43A3-813A-26D06AD3BE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBFC4DE-A182-43A3-813A-26D06AD3BE04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
