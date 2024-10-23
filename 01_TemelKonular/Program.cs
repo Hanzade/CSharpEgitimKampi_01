@@ -13,21 +13,21 @@ namespace _01_TemelKonular
         static void Main(string[] args)
         {
             #region YazdırmaKomutları
-            //yazdırma komutları 
+            yazdırma komutları
 
-            //Console.WriteLine("Hanzade Beyza Bahcekapili"); //imleci alt satıra indirir. 
-            //Console.Write("Hanzade Beyza Öztürk");
+            Console.WriteLine("Hanzade Beyza Bahcekapili"); //imleci alt satıra indirir. 
+            Console.Write("Hanzade Beyza Öztürk");
 
-            //Console.WriteLine(" ***** Yemek Kategorileri *****");
-            //Console.WriteLine();
-            //Console.WriteLine("1-Çorbalar");
-            //Console.WriteLine("2-Ana Yemekler");
-            //Console.WriteLine("3-Soğuk Başlangıçlar");
-            //Console.WriteLine("4-Salatalar");
-            //Console.WriteLine("5-Tatlılar");
-            //Console.WriteLine("6-İçecekler");
-            //Console.WriteLine();
-            //Console.WriteLine(" ***** Yemek Kategorileri *****");
+            Console.WriteLine(" ***** Yemek Kategorileri *****");
+            Console.WriteLine();
+            Console.WriteLine("1-Çorbalar");
+            Console.WriteLine("2-Ana Yemekler");
+            Console.WriteLine("3-Soğuk Başlangıçlar");
+            Console.WriteLine("4-Salatalar");
+            Console.WriteLine("5-Tatlılar");
+            Console.WriteLine("6-İçecekler");
+            Console.WriteLine();
+            Console.WriteLine(" ***** Yemek Kategorileri *****");
 
             #endregion
 
@@ -36,9 +36,9 @@ namespace _01_TemelKonular
             //string
             //Degisken_türü degisken_adi;
 
-            //string name;
-            //name = "Murat";
-            //Console.WriteLine(name);
+            string name;
+            name = "Murat";
+            Console.WriteLine(name);
 
             #endregion
 
